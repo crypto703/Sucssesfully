@@ -1,0 +1,128 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    padding: 0px;
+        color: rgb(11, 27, 27);
+     
+}
+.wwow:hover {
+      font-size: 26px;
+}
+
+
+.wwow {
+    font-size: 25px;
+   margin-left: 250px;
+    text-decoration: none;
+     color: rgba(81, 217, 217, 0.914);
+     text-align: center;
+    margin-top: auto;
+}
+
+img {
+    width: 170px;
+}
+main h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+}
+body {
+    background-color: rgba(203, 212, 196, 0.826);
+}
+header  {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    padding-top: 0.1%;
+    padding-bottom: 0.1%;
+    background-color: rgba(7, 7, 7, 0.877);
+    margin-bottom: 67px;
+}
+div a {
+font-size: 25px;
+}
+a {
+    font-size: 16px;
+ 
+    color: rgb(100, 18, 18);
+    text-decoration: none;
+}
+a:hover {
+   color: rgb(53, 66, 128);  
+}
+div p {
+    font-size: 29px;
+}
+div {
+    position: absolute;
+   background-color: #0db523;
+    margin-right: 630px;
+text-align: center;
+border-radius: 10px;
+}
+nav a {
+    
+margin-top: 250px;
+    position: absolute;
+    left: -25px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+
+    border-radius: 5px;
+
+}
+
+.blog {
+    top: 265px;
+     background-color: #59036c;
+}
+.about {
+            background-color: #af864c;
+    top: 20px;
+
+}
+a:hover {
+        left: 0;
+
+}
+.projects {
+            background-color: #f44336;
+    top: 405px;
+    
+}
+.wew {
+            background-color: #0db523;
+    top: 323px;
+}
+.inf{
+    font-size: 20px;
+    font-weight: 700;
+    color:#481677;
+}
+
+p{
+    width: 70%;
+}
+
+main{
+   margin-left: 180px;
+}
+
+.bblog {
+    top: 80px;
+     background-color: #6f0a1d;
+}
+.aabout {
+            background-color: #4CAF50;
+    top: 185px;
+
+}
+
